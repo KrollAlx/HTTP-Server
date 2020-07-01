@@ -1,0 +1,6 @@
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\HTTP Server\HTTP Server\bin\Debug\HTTP Server.exe.config
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\HTTP Server\HTTP Server\bin\Debug\HTTP Server.exe
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\HTTP Server\HTTP Server\bin\Debug\HTTP Server.pdb
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\HTTP Server\HTTP Server\obj\Debug\HTTP Server.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\HTTP Server\HTTP Server\obj\Debug\HTTP Server.exe
+C:\Users\Алексей\Desktop\Универ\2 курс\Сети\HTTP Server\HTTP Server\obj\Debug\HTTP Server.pdb
